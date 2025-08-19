@@ -28,6 +28,6 @@ I'm a security engineer focused on building modern applications to inform my app
 
 ### 📫 Let's Connect
 
-- **Portfolio**: [Link to your portfolio website]
-- **LinkedIn**: [Link to your LinkedIn profile]
-- **Email**: your.email@example.com
+``- **Portfolio**: [Link to your portfolio website]``
+- **LinkedIn**: [https://www.linkedin.com/in/remingtonjaques]
+- **Email**: rlpjaques@gmail.com
