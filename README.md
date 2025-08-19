@@ -21,13 +21,17 @@ I'm a security engineer focused on building modern applications to inform my app
 
 ### 💻 Current Projects
 
-- **[Project Name]**: A brief, one-sentence description of your project.
-- **[Project Name]**: A brief, one-sentence description of your project.
+- **willfrost**: A genAI poetry application that generates short poems based on user-provided prompts.
+- **midlately.ai**: An application that uses models to generate a simple melody or chord progression.
+- **PoisonPensieve**: A data poisoning detector that identifies unusual data points or patterns that may indicate malicious influence by a bad actor.
+- **Randall**: A bias and fairness auditor for model outputs.
+- **Attackticks**: A tool that demonstrates how adversarial attacks work. 
+
 
 ---
 
 ### 📫 Let's Connect
 
-``- **Portfolio**: [Link to your portfolio website]``
+[//]: # (Commenting out "- **Portfolio**: [Link to your portfolio website]." for now.)
 - **LinkedIn**: [https://www.linkedin.com/in/remingtonjaques]
 - **Email**: rlpjaques@gmail.com
