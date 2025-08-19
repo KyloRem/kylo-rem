@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Rem!
 
-I'm a security engineer focused on building modern applications to inform my approach to security. My goal is to use this knowledge to help developers implement secure practices while introducing minimal friction and provide strategic leadership in application security. I'm currently working on my portfolio and learning about generative AI and AI security.
+I'm a security engineer focused on building modern applications to inform my approach to security. My goal is to use this knowledge to help developers implement secure practices while introducing minimal friction and provide strategic leadership in application security. I'm currently working on my portfolio and learning about genAI and ways to develop it safely.
 
 ---
 
