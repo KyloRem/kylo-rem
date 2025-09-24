@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Rem!
 
-I'm a security engineer focused on building modern applications to inform my approach to security. My goal is to use this knowledge to help developers implement secure practices while introducing minimal friction and provide strategic leadership in application security. I'm currently working on my portfolio and learning about genAI and ways to develop it safely.
+I'm a security engineer focused on building modern applications to inform my approach to security. My goal is to use this knowledge to help developers implement secure practices while introducing minimal friction and provide strategic leadership in enterprise security. I'm currently working on my portfolio and learning about genAI and ways to develop it safely.
 
 ---
 
@@ -10,11 +10,11 @@ I'm a security engineer focused on building modern applications to inform my app
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, SQL, SPL (Splunk), Zsh |
+| **Languages** | Bash, Python, SQL, SPL (Splunk), Zsh |
 | **Frontend** | HTML, CSS |
 | **Backend** | Python |
 | **Databases** | MongoDB, **AWS (RDS, DynamoDB)** |
-| **AI** | Databricks Mosaic AI, Gemini |
+| **AI** | Garak.ai, Databricks Mosaic AI |
 | **Security Tools** | Splunk, CrowdStrike, AWS GuardDuty, Any.Run, Okta, Google Enterprise, Flare.io, Jamf, Orca, LogRhythm/Exabeam |
 
 ---
