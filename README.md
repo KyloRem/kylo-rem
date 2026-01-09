@@ -1,37 +1,46 @@
 # kylo-rem
 
-### Hi there 👋, I'm Rem!
+### Thanks for Stopping By!
 
-I'm a security engineer focused on building modern applications to inform my approach to security. My goal is to use this knowledge to help developers implement secure practices while introducing minimal friction and provide strategic leadership in enterprise security. I'm currently working on my portfolio and learning about genAI and ways to develop it safely.
+My name is Rem. I'm a security engineer, musician, NBA fan, and full-time dweeb. I'm currently building modern detection engineering systems, developing AI agents, and researching LLM Red Teaming techniques. My goal is to treat security operations like production software and automate as much as possible while learning all there is to know about securing agentic applications.
 
 ---
 
 ### 🚀 Skills & Interests
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Bash, Python, SQL, SPL (Splunk), Zsh |
-| **Frontend** | HTML, CSS |
-| **Backend** | Python |
-| **Databases** | MongoDB, **AWS (RDS, DynamoDB)** |
-| **AI** | Garak.ai, Databricks Mosaic AI |
-| **Security Tools** | Splunk, CrowdStrike, AWS GuardDuty, Any.Run, Okta, Google Enterprise, Flare.io, Jamf, Orca, LogRhythm/Exabeam |
+| Category                  | Skills                                                    |
+| :------------------------ | :-------------------------------------------------------- |
+| **Detection Engineering** | SPL, Sigma, Terraform-managed detections, CI/CD pipelines |
+| **Security Automation**   | Python, Bash, GitHub Actions                              |
+| **Cloud Security**        | AWS (GuardDuty, CloudTrail), Orca                         |
+| **SIEM & Analytics**      | Splunk, LogRhythm/Exabeam                                 |
+| **Endpoint & Identity**   | CrowdStrike, Okta, Jamf, Google Enterprise                |
+| **Threat Intelligence**   | Flare.io, Any.Run                                         |
+| **AI Security**           | LLM red teaming, Garak.ai, MCP, toxic flow analysis       |
 
 ---
 
 ### 💻 Current Projects
 
+- **project-camino**: A Terraform-managed detection engineering repository, built around a 5-phase detection lifecycle framework.
 - **willfrost**: A genAI poetry application that generates short poems based on user-provided prompts.
+
+---
+
+### 🔮 Next Up
+
+- **AI Investigation Agent**: An agent that consumes alert payloads and detection metadata to automate triage workflows using MCP integration.
+- **Detection Format Converter**: An AI agent using MCP to convert between SIEM formats (SPL, Sigma, KQL).
+- **MITRE ATT&CK coverage reporting**: Automated detection coverage analysis mapped to the ATT&CK framework.
 - **midlately.ai**: An application that uses models to generate a simple melody or chord progression.
 - **PoisonPensieve**: A data poisoning detector that identifies unusual data points or patterns that may indicate malicious influence by a bad actor.
 - **Randall**: A bias and fairness auditor for model outputs.
-- **Attackticks**: A tool that demonstrates how adversarial attacks work. 
-
+- **Attackticks**: A tool that demonstrates how adversarial attacks work.
 
 ---
 
 ### 📫 Let's Connect
 
-[//]: # (Commenting out "- **Portfolio**: [Link to your portfolio website]." for now.)
+- **Portfolio**: [https://github.com/KyloRem]
 - **LinkedIn**: [https://www.linkedin.com/in/remingtonjaques]
 - **Email**: rlpjaques@gmail.com
