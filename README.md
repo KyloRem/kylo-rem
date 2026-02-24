@@ -2,7 +2,9 @@
 
 ### Thanks for Stopping By!
 
-My name is Rem. I'm a security engineer, musician, NBA fan, and full-time dweeb. I'm currently building modern detection engineering systems, developing AI agents, and researching LLM Red Teaming techniques. My goal is to treat security operations like production software and automate as much as possible while learning all there is to know about securing agentic applications.
+My name is Rem. I'm a security engineer, musician, NBA fan, and lifelong student. I'm currently building modern detection engineering systems, developing AI agents and MCP servers, and researching LLM Red Teaming techniques. My goal is to treat security operations like production software and automate as much as possible. Never stop learning, never rest on your laurels. 
+
+"I am an elite engineer. I pursue technical excellence daily. I refuse to settle for a weak understanding." 
 
 ---
 
@@ -23,7 +25,7 @@ My name is Rem. I'm a security engineer, musician, NBA fan, and full-time dweeb.
 ### 💻 Current Projects
 
 - **project-camino**: A Terraform-managed detection engineering repository, built around a 5-phase detection lifecycle framework.
-- **willfrost**: A genAI poetry application that generates short poems based on user-provided prompts.
+- **logic-pro-mcp**: An MCP server integrating Claude Desktop with Apple's Logic Pro DAW. Integrates Claude with recording sessions for mix automation. 
 
 ---
 
@@ -36,6 +38,7 @@ My name is Rem. I'm a security engineer, musician, NBA fan, and full-time dweeb.
 - **PoisonPensieve**: A data poisoning detector that identifies unusual data points or patterns that may indicate malicious influence by a bad actor.
 - **Randall**: A bias and fairness auditor for model outputs.
 - **Attackticks**: A tool that demonstrates how adversarial attacks work.
+- - **willfrost**: A genAI poetry application that generates short poems based on user-provided prompts.
 
 ---
 
