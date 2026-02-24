@@ -38,7 +38,7 @@ My name is Rem. I'm a security engineer, musician, NBA fan, and lifelong student
 - **PoisonPensieve**: A data poisoning detector that identifies unusual data points or patterns that may indicate malicious influence by a bad actor.
 - **Randall**: A bias and fairness auditor for model outputs.
 - **Attackticks**: A tool that demonstrates how adversarial attacks work.
-- - **willfrost**: A genAI poetry application that generates short poems based on user-provided prompts.
+- **willfrost**: A genAI poetry application that generates short poems based on user-provided prompts.
 
 ---
 
